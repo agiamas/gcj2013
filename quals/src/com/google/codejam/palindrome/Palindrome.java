@@ -5,7 +5,9 @@ import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.math.BigInteger;
 import java.util.Scanner;
-
+/**
+ * small input could work with int's , large 1 needed long's large 2 needed Big Java Numbers :) 
+ */
 public class Palindrome {
   Palindrome(String fileName) {
 
